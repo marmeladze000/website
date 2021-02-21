@@ -13,9 +13,7 @@ header div a {
 }
 
 h1 {
-    text-align: center;
-    color: dimgray;
-    font-size: 27px;
+
 }
 
 .div1 {
@@ -50,12 +48,12 @@ nav a {
   color: #282828;
 }  
   
-}
 h1 {
   font-size:25px;
   text-align:center;
-  font-family:monospace;
-  text-decoration:
+  font-family: 'Montserrat wght@900', sans-serif;
+  color: dimgray;
+  font-size: 27px;
 }
 
 .div2 {
