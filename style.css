@@ -57,14 +57,14 @@ h1 {
 
 .div2 {
   display: flex;
-  font-family: 'Jura', 700, sans-serif;
+  
 }
 
 main div p{
   font-size:18px;
   text-align:center;
   text-decoration:none;
-  font-family:arial;
+  font-family: 'Jura', 700, sans-serif;
 }
 
 .div3 {
