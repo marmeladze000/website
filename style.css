@@ -37,7 +37,7 @@ nav a {
   border-radius:10px;
   background-color: #282828;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 100;
+  font-weight: 500;
 }
 
 .steam{
@@ -48,7 +48,7 @@ nav a {
 h1 {
   font-size:25px;
   text-align:center;
-  font-family: 'Montserrat', 800, sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 800;
   color: dimgray;
   font-size: 27px;
