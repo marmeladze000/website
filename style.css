@@ -24,10 +24,20 @@ main {
   background-color:#ECECEC;
 }
 
+nav {
+  font-size: 25px;
+  text-decoration:none;
+  color: white;
+  border:3px solid #282828;
+  border-radius:10px;
+  background-color: #282828;
+}
+
 h1 {
   font-size:25px;
   text-align:center;
   font-family:monospace;
+  text-decoration:
 }
 
 .div2 {
@@ -37,7 +47,8 @@ h1 {
 main div p{
   font-size:18px;
   text-align:center;
-  font-family:arial
+  text-decoration:none;
+  font-family:arial;
 }
 
 .div3 {
