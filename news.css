@@ -67,9 +67,13 @@ h2 {
 .post p{
   font-size:18px;
   text-align:center;
-  text-decoration:none;
+  text-decoration:none;  
+}
+
+.post {
   margin: 25px 250px 25px 250px;
 }
+
 hr {
   width: 300px;
 }
