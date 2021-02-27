@@ -27,6 +27,7 @@ main {
 nav {
   margin:15px;
   padding: 5px;
+  text-align:center;
 }
 
 nav a {
