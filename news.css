@@ -64,10 +64,11 @@ h2 {
   color: dimgray;
 }
 
-main div p{
+.post p{
   font-size:18px;
   text-align:center;
   text-decoration:none;
+  margin: 5px 50px 5px 50px
 }
 
 main p {
